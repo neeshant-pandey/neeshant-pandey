@@ -24,27 +24,14 @@ I'm a software engineer focused on building scalable ML infrastructure and data-
 
 ---
 
-## 📈 Production Systems Dashboard
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                    MLOps Infrastructure Status                 ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                                ║
-║  🚀 ML Pipeline Uptime          │  99.9%        │  ✅ Healthy ║
-║  🤖 Models in Production        │  47           │  🎯 Active  ║
-║  📊 Daily Predictions Served    │  10M+         │  ⚡ Scaling ║
-║  🔍 Data Quality Score          │  98.5%        │  ✨ Optimal ║
-║  ⚙️  Training Jobs (24h)        │  156          │  🔄 Running ║
-║  📉 Model Drift Detected        │  0            │  ✅ Stable  ║
-║  🐳 Container Deployments       │  2,341        │  🚢 K8s     ║
-║  ⏱️  Avg Pipeline Latency       │  -23% ↓       │  🎊 Faster  ║
-║                                                                ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+## 💻 Live MLOps Terminal
 
 <p align="center">
-  <em>Real-world metrics from production ML systems I've worked with</em>
+  <img src="./assets/terminal-animation.svg" alt="Animated Terminal" width="800"/>
+</p>
+
+<p align="center">
+  <em>Watch a typical day in production: deploying ML pipelines, monitoring models, and scaling infrastructure</em>
 </p>
 
 ---
