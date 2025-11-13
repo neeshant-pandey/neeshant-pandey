@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3BBAFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B+I'm+Neeshant+Pandey;Software+Engineer+%7C+Building+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3BBAFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi,+I'm+Neeshant+Pandey;Software+Engineer+%7C+Building+Scalable+Systems" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -13,18 +13,16 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a software engineer focused on building scalable ML infrastructure and data-intensive systems. I believe in writing thoughtful, well-tested code and diving deep into problems to find elegant solutions.
 
-- 🔭 **Current Focus:** Designing MLOps pipelines for automated model training, validation, and monitoring
-- 🌱 **Learning:** Advanced distributed training systems, stream processing architectures, and ML observability
-- 💡 **Philosophy:** Don't rush through tasks—dive deeply into the code and pay attention to the details
-- 🎯 **Interests:** ELT pipelines, model monitoring, CI/CD for ML, and production ML infrastructure
+- **Current Focus:** Designing MLOps pipelines for automated model training, validation, and monitoring
+- **Learning:** Advanced distributed training systems, stream processing architectures, and ML observability
+- **Philosophy:** Don't rush through tasks—dive deeply into the code and pay attention to the details
+- **Interests:** ELT pipelines, model monitoring, CI/CD for ML, and production ML infrastructure
 
 ---
-
-## 💻 Live MLOps Terminal
 
 <p align="center">
   <img src="./assets/terminal-animation.svg" alt="Animated Terminal" width="800"/>
@@ -36,7 +34,7 @@ I'm a software engineer focused on building scalable ML infrastructure and data-
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -84,7 +82,7 @@ I'm a software engineer focused on building scalable ML infrastructure and data-
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=neeshant-pandey&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
@@ -92,27 +90,27 @@ I'm a software engineer focused on building scalable ML infrastructure and data-
 
 ---
 
-## 💼 What I Work On
+## What I Work On
 
-### **🔄 MLOps Pipelines**
+### **MLOps Pipelines**
 - Designing and implementing automated ML training and retraining workflows
 - Building model validation and testing frameworks to ensure correctness
 - Creating versioned model registries and artifact management systems
 - Implementing distributed training systems for large-scale models
 
-### **📊 Data Engineering**
+### **Data Engineering**
 - Constructing ELT pipelines for data processing and quality validation
 - Building data quality monitoring and anomaly detection systems
 - Designing scalable data transformation workflows with Dagster/Airflow
 - Implementing real-time data streaming with Kafka and Spark
 
-### **🚀 CI/CD & Deployment**
+### **CI/CD & Deployment**
 - Building CI/CD pipelines for ML models and services
 - Containerizing ML applications with Docker and orchestrating with Kubernetes
 - Implementing blue-green and canary deployment strategies for ML models
 - Automating infrastructure provisioning with Terraform and Helm
 
-### **📈 Model Monitoring & Observability**
+### **Model Monitoring & Observability**
 - Creating comprehensive monitoring systems for production ML models
 - Tracking model performance, data drift, and prediction quality
 - Building alerting systems for model degradation and anomalies
@@ -121,7 +119,7 @@ I'm a software engineer focused on building scalable ML infrastructure and data-
 ---
 
 <details>
-<summary>🏗️ <b>Click to view my ML System Architecture</b></summary>
+<summary><b>Click to view my ML System Architecture</b></summary>
 
 <br>
 
@@ -192,7 +190,7 @@ I'm a software engineer focused on building scalable ML infrastructure and data-
 
 ---
 
-## 📊 GitHub Stats & Activity
+## GitHub Stats & Activity
 
 <p align="center">
   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=neeshant-pandey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -202,7 +200,7 @@ I'm a software engineer focused on building scalable ML infrastructure and data-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=neeshant-pandey&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neeshant-pandey/neeshant-pandey/output/github-contribution-grid-snake-dark.svg">
@@ -211,12 +209,12 @@ I'm a software engineer focused on building scalable ML infrastructure and data-
 </picture>
 
 <p align="center">
-  <em>Watch the snake eat my contributions! 🐍</em>
+  <em>Watch the snake eat my contributions</em>
 </p>
 
 ---
 
-## 🌟 Current Learning Path
+## Current Learning Path
 
 ```python
 current_focus = {
@@ -242,20 +240,20 @@ current_focus = {
 
 ---
 
-## 🎯 Approach to Engineering
+## Approach to Engineering
 
 > **"Intelligence, contemplation, and composure over haste."**
 
 I believe in:
-- 🔍 **Deep Diving:** Understanding systems thoroughly before making changes
-- 🧪 **Testing Rigorously:** Writing comprehensive tests to ensure correctness
-- 📝 **Documenting Thoughtfully:** Clear documentation for maintainability
-- 🏗️ **Building for Scale:** Designing systems that grow gracefully
-- 🔄 **Iterating Continuously:** Improving through measurement and feedback
+- **Deep Diving:** Understanding systems thoroughly before making changes
+- **Testing Rigorously:** Writing comprehensive tests to ensure correctness
+- **Documenting Thoughtfully:** Clear documentation for maintainability
+- **Building for Scale:** Designing systems that grow gracefully
+- **Iterating Continuously:** Improving through measurement and feedback
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/neeshant-pandey-382a10191/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
