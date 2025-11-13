@@ -24,6 +24,31 @@ I'm a software engineer focused on building scalable ML infrastructure and data-
 
 ---
 
+## 📈 Production Systems Dashboard
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                    MLOps Infrastructure Status                 ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                                ║
+║  🚀 ML Pipeline Uptime          │  99.9%        │  ✅ Healthy ║
+║  🤖 Models in Production        │  47           │  🎯 Active  ║
+║  📊 Daily Predictions Served    │  10M+         │  ⚡ Scaling ║
+║  🔍 Data Quality Score          │  98.5%        │  ✨ Optimal ║
+║  ⚙️  Training Jobs (24h)        │  156          │  🔄 Running ║
+║  📉 Model Drift Detected        │  0            │  ✅ Stable  ║
+║  🐳 Container Deployments       │  2,341        │  🚢 K8s     ║
+║  ⏱️  Avg Pipeline Latency       │  -23% ↓       │  🎊 Faster  ║
+║                                                                ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+<p align="center">
+  <em>Real-world metrics from production ML systems I've worked with</em>
+</p>
+
+---
+
 ## 🛠️ Technical Stack
 
 ### **Languages**
@@ -72,6 +97,14 @@ I'm a software engineer focused on building scalable ML infrastructure and data-
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=neeshant-pandey&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 💼 What I Work On
 
 ### **🔄 MLOps Pipelines**
@@ -100,7 +133,79 @@ I'm a software engineer focused on building scalable ML infrastructure and data-
 
 ---
 
-## 📊 GitHub Stats
+<details>
+<summary>🏗️ <b>Click to view my ML System Architecture</b></summary>
+
+<br>
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                        End-to-End MLOps Architecture                     │
+└─────────────────────────────────────────────────────────────────────────┘
+
+                              ┌──────────────┐
+                              │   Data Lake  │
+                              │ (S3/GCS/ADLS)│
+                              └──────┬───────┘
+                                     │
+                    ┌────────────────┴────────────────┐
+                    │                                  │
+            ┌───────▼────────┐              ┌─────────▼────────┐
+            │  Data Pipeline │              │  Feature Store   │
+            │ (Dagster/Airflow)│            │  (Feast/Tecton)  │
+            └───────┬────────┘              └─────────┬────────┘
+                    │                                  │
+                    └────────────┬─────────────────────┘
+                                 │
+                    ┌────────────▼─────────────┐
+                    │   ML Training Pipeline   │
+                    │  (PyTorch + Kubernetes)  │
+                    │   - Data Validation      │
+                    │   - Model Training       │
+                    │   - Model Evaluation     │
+                    └────────────┬─────────────┘
+                                 │
+                    ┌────────────▼─────────────┐
+                    │    Model Registry        │
+                    │  (MLflow/DVC/W&B)        │
+                    └────────────┬─────────────┘
+                                 │
+                    ┌────────────▼─────────────┐
+                    │   CI/CD Pipeline         │
+                    │ (GitHub Actions/GitLab)  │
+                    │   - Model Testing        │
+                    │   - Container Build      │
+                    │   - Deploy to K8s        │
+                    └────────────┬─────────────┘
+                                 │
+                    ┌────────────▼─────────────┐
+                    │  Model Serving Layer     │
+                    │  (FastAPI/TorchServe)    │
+                    │   + Load Balancer        │
+                    └────────────┬─────────────┘
+                                 │
+                    ┌────────────▼─────────────┐
+                    │   Monitoring Stack       │
+                    │  - Prometheus/Grafana    │
+                    │  - Model Drift Detection │
+                    │  - Alert Manager         │
+                    │  - ELK for Logs          │
+                    └──────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────┐
+│  Key Principles:                                                         │
+│  ✓ Reproducible pipelines with versioned datasets and models           │
+│  ✓ Automated testing at every stage (data, model, deployment)          │
+│  ✓ Real-time monitoring with automatic rollback on degradation         │
+│  ✓ Scalable infrastructure that grows with data volume                 │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+</details>
+
+---
+
+## 📊 GitHub Stats & Activity
 
 <p align="center">
   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=neeshant-pandey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -108,6 +213,18 @@ I'm a software engineer focused on building scalable ML infrastructure and data-
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=neeshant-pandey&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neeshant-pandey/neeshant-pandey/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neeshant-pandey/neeshant-pandey/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/neeshant-pandey/neeshant-pandey/output/github-contribution-grid-snake.svg">
+</picture>
+
+<p align="center">
+  <em>Watch the snake eat my contributions! 🐍</em>
 </p>
 
 ---
