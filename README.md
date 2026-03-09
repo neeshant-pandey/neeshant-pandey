@@ -77,7 +77,7 @@ I'm a Full Stack Engineer focused on building enterprise frontend platforms and 
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=neeshant-pandey&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=neeshant-pandey&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
